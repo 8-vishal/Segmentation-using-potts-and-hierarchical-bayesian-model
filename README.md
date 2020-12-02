@@ -1,0 +1,1 @@
+# Segmentation-using-potts-and-hierarchical-bayesian-model
